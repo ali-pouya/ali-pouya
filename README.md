@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ali Pouya
 
-Optical engineer building tools for imaging simulation, optical metrology, and automated testing.
-📌 *I'm currently consolidating years of optics and imaging work into a unified public GitHub page.*
+Optical engineer building tools for imaging simulation, optical metrology, and automated testing.  
+> 📌 *I'm currently consolidating years of optics and imaging work into a unified public GitHub page.*
 
 ### 🔭 Featured Work
 
