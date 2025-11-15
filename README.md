@@ -5,8 +5,12 @@ Optical engineer building tools for imaging simulation, optical metrology, and a
 > 📌 *I'm currently consolidating years of optics and imaging work into a unified public GitHub portfolio.*
 
 ### 🔭 Featured Work
-- **[Imaging Pipeline Simulator](https://github.com/ali-pouya/IMAGING-PIPELINE-SIM)** — scene → optics → sensor modeling  
-- **[Camera MTF Bench](https://github.com/ali-pouya/CAMERA-MTF-BENCH)** — automated slanted-edge MTF + autofocus  
+- **[Imaging Pipeline Simulator](https://github.com/ali-pouya/IMAGING-PIPELINE-SIM)**
+    Modular scene → optics → sensor simulator for visualizing blur, PSF, pixel MTF, and end-to-end imaging behavior.
+   
+- **[Camera MTF Bench](https://github.com/ali-pouya/CAMERA-MTF-BENCH)**
+    Automated slanted-edge MTF + autofocus bench using Python, OpenCV, and PyVISA. Includes Siemens targets and contrast metrics.
+    
 - **Optics Learning Hub** *(coming soon)* — hands-on optics & imaging lessons  
 
 
