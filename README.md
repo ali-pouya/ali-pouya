@@ -14,3 +14,33 @@ Optical engineer building tools for imaging simulation, optical metrology, and a
 
 
 📫 Connect: [LinkedIn](https://linkedin.com/in/alipouya) • [GitHub](https://github.com/ali-pouya)
+
+
+### 🔭 Pinned Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ali-pouya/IMAGING-PIPELINE-SIM">
+        <strong>IMAGING-PIPELINE-SIM</strong>
+      </a>
+      <br/>
+      <sub>Imaging Pipeline Through Lens/Sensor</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-Python-informational?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/ali-pouya/IMAGING-PIPELINE-SIM?style=social" />
+      <img src="https://img.shields.io/github/repo-size/ali-pouya/IMAGING-PIPELINE-SIM?label=repo%20size" />
+    </td>
+    <td>
+      <a href="https://github.com/ali-pouya/CAMERA-MTF-BENCH">
+        <strong>CAMERA-MTF-BENCH</strong>
+      </a>
+      <br/>
+      <sub>Camera MTF & autofocus bench</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-Python-informational?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/ali-pouya/CAMERA-MTF-BENCH?style=social" />
+      <img src="https://img.shields.io/github/repo-size/ali-pouya/CAMERA-MTF-BENCH?label=repo%20size" />
+    </td>
+  </tr>
+</table>
