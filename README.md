@@ -1,46 +1,18 @@
-<h3>🔭 Featured & Pinned Projects</h3>
+# 👋 Hi, I'm Ali Pouya
 
-<table style="width:100%; border-collapse:separate; border-spacing:16px 0;">
-  <tr>
-    <!-- IMAGING-PIPELINE-SIM -->
-    <td style="width:50%; vertical-align:top;">
-      <div style="border:1px solid #30363d; border-radius:12px; padding:16px;">
-        <a href="https://github.com/ali-pouya/IMAGING-PIPELINE-SIM" style="text-decoration:none;">
-          <strong>IMAGING-PIPELINE-SIM</strong>
-        </a>
-        <br/>
-        <sub>Imaging Pipeline Through Lens/Sensor</sub>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/-Python-informational?logo=python&logoColor=white" alt="Python" style="pointer-events:none;"/>
-        <img src="https://img.shields.io/github/stars/ali-pouya/IMAGING-PIPELINE-SIM?style=social" alt="GitHub stars" style="pointer-events:none;"/>
-        <img src="https://img.shields.io/github/repo-size/ali-pouya/IMAGING-PIPELINE-SIM?label=repo%20size" alt="Repo size" style="pointer-events:none;"/>
-      </div>
-    </td>
+Optical engineer building tools for imaging simulation, optical metrology, and automated testing.  
 
-    <!-- CAMERA-MTF-BENCH -->
-    <td style="width:50%; vertical-align:top;">
-      <div style="border:1px solid #30363d; border-radius:12px; padding:16px;">
-        <a href="https://github.com/ali-pouya/CAMERA-MTF-BENCH" style="text-decoration:none;">
-          <strong>CAMERA-MTF-BENCH</strong>
-        </a>
-        <br/>
-        <sub>Camera MTF & autofocus bench</sub>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/-Python-informational?logo=python&logoColor=white" alt="Python" style="pointer-events:none;"/>
-        <img src="https://img.shields.io/github/stars/ali-pouya/CAMERA-MTF-BENCH?style=social" alt="GitHub stars" style="pointer-events:none;"/>
-        <img src="https://img.shields.io/github/repo-size/ali-pouya/CAMERA-MTF-BENCH?label=repo%20size" alt="Repo size" style="pointer-events:none;"/>
-      </div>
-    </td>
-  </tr>
 
-  <!-- Optics Learning Hub -->
-  <tr>
-    <td colspan="2" style="vertical-align:top;">
-      <div style="border:1px solid #30363d; border-radius:12px; padding:16px;">
-        <strong>Optics Learning Hub</strong> <sub>(coming soon)</sub>
-        <br/>
-        <sub>Hands-on optics & imaging lessons built with Jupyter-Book.</sub>
-      </div>
-    </td>
-  </tr>
-</table>
+### 🔭 Featured Work
+
+- **[Imaging Pipeline Simulator](https://github.com/ali-pouya/IMAGING-PIPELINE-SIM)**  
+  Modular scene → optics → sensor simulator for visualizing blur, PSF, pixel MTF, and end-to-end imaging behavior.
+  
+- **[Camera MTF Bench](https://github.com/ali-pouya/CAMERA-MTF-BENCH)**  
+  Automated slanted-edge MTF + autofocus bench using Python, OpenCV, and PyVISA, with Siemens targets and contrast metrics.
+
+- **Optics Learning Hub** *(coming soon)*  
+  Hands-on optics & imaging lessons built with Jupyter-Book.
+
+
+📫 Connect: [LinkedIn](https://linkedin.com/in/alipouya) • [GitHub](https://github.com/ali-pouya)
